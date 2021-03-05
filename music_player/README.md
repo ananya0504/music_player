@@ -37,6 +37,14 @@ Here are some screenshots of my work -
 | :--------------------------------------:  | :--------------------------------------: | :--------------------------------------: |
 |   ![home](screenshots/home_page3.jpeg)    | ![music](screenshots/music_screen.jpeg)  |   ![login](screenshots/login_page.jpeg)  |
 
+|                    BANNER                     |                    HOME PAGE                     |                 DONOR STORY                  |
+| :-------------------------------------------: | :----------------------------------------------: | :------------------------------------------: |
+| ![Banner](screenshots/splash_screen.jpeg) | ![Home Page](screenshots/home_page1.jpeg) | ![Story](screenshots/home_page2.jpeg) |
+
+|                  APP DRAWER                   |                 DONOR PROFILE                  |                 SHARE STORY                  |
+| :-------------------------------------------: | :--------------------------------------------: | :------------------------------------------: |
+| ![Drawer](screenshots/home_page3.jpeg) | ![Profile](screenshots/music_screen.jpeg) | ![Share](screenshots/login_page.jpeg) |
+
 
 
 ### If you like my work please give me a :star:, it will motivate me to do more awesome work :blush:
