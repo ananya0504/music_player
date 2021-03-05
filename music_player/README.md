@@ -30,13 +30,13 @@ Here are some screenshots of our project
 **Screenshots**
 
 |         SPLASH SCREEN         |        HOMEPAGE       |            HOME PAGE           |
-| :----------------------:      | :-------------------: | :----------------------------: |
-| !(screenshots/splash_screen.jpeg) | !(screenshots/home_page1.jpeg) | !(screenshots/home_page2.jpeg)  |
+| :--------------------------:  | :-------------------: | :----------------------------: |
+| ![splash](screenshots/splash_screen.jpeg) | ![home](screenshots/home_page1.jpeg) | ![home](screenshots/home_page2.jpeg)  |
 
 |       HOME PAGE               |        MUSIC SCREEN   |            LOGIN PAGE          |
-| :----------------------:      | :-------------------: | :----------------------------: |
-| !(screenshots/home3.png)      | !(screenshots/music_screen.jpeg)  | !(screenshots/login_page.jpeg)   |
+| :--------------------------:  | :-------------------: | :----------------------------: |
+| ![home](screenshots/home_page3.png)      | ![music](screenshots/music_screen.jpeg)  | ![login](screenshots/login_page.jpeg)   |
 
 
 
-## If you like mu work please give me a :star:, it will motivate me to do more awesome work :blush:
+### If you like my work please give me a :star:, it will motivate me to do more awesome work :blush:
