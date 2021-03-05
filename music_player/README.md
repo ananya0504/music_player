@@ -25,15 +25,15 @@ I was able to implement all my learnings in this small app!
 
 ## Screenshots & Gif
 
-Here are some screenshots of our project
+Here are some screenshots of my work -
 
 **Screenshots**
 
-|         SPLASH SCREEN                     |        HOMEPAGE                          |            HOME PAGE                     |
+|               SPLASH SCREEN               |                HOME PAGE                 |                HOME PAGE                 |
 | :--------------------------------------:  | :--------------------------------------: | :--------------------------------------: |
 | ![splash](screenshots/splash_screen.jpeg) |   ![home](screenshots/home_page1.jpeg)   |   ![home](screenshots/home_page2.jpeg)   |
 
-|       HOME PAGE                           |        MUSIC SCREEN                      |            LOGIN PAGE                    |
+|                 HOME PAGE                 |                MUSIC SCREEN              |                LOGIN PAGE                |
 | :--------------------------------------:  | :--------------------------------------: | :--------------------------------------: |
 |   ![home](screenshots/home_page3.jpeg)    | ![music](screenshots/music_screen.jpeg)  |   ![login](screenshots/login_page.jpeg)  |
 
