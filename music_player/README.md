@@ -28,14 +28,17 @@ I was able to implement all my learnings in this small app!
 Here are some screenshots of my work -
 
 **Screenshots**
+<p>
+  <img src='screenshots/splash_screen.png' width = '33%'>
+  <img src= 'screenshots/home_page1.png' width = '33%' >
+  <img src ='screenshots/home_page2.png' width = '33%'>
+</p>
 
-|               SPLASH SCREEN               |                HOME PAGE                 |                HOME PAGE                 |
-| :--------------------------------------:  | :--------------------------------------: | :--------------------------------------: |
-| ![splash](screenshots/splash_screen.jpeg) |   ![home](screenshots/home_page1.jpeg)   |   ![home](screenshots/home_page2.jpeg)   |
-
-|                 HOME PAGE                 |                MUSIC SCREEN              |                LOGIN PAGE                |
-| :--------------------------------------:  | :--------------------------------------: | :--------------------------------------: |
-|   ![home](screenshots/home_page3.jpeg)    | ![music](screenshots/music_screen.jpeg)  |   ![login](screenshots/login_page.jpeg)  |
+<p>
+  <img src='screenshots/home_page3.png' width = '33%'>
+  <img src= 'screenshots/music_screen.png' width = '33%'>
+  <img src ='screenshots/login_page.png' width = '33%'>
+</p>
 
 
 
