@@ -28,15 +28,15 @@ I was able to implement all my learnings in this small app!
 Here are some screenshots of my work -
 
 <p>
-  <img src='screenshots/splash_screen.png' width = '33%'>
-  <img src= 'screenshots/home_page1.png' width = '33%' >
-  <img src ='screenshots/home_page2.png' width = '33%'>
+  <img src='screenshots/splash_screen.png' width = '30%'>
+  <img src= 'screenshots/home_page1.png' width = '30%' >
+  <img src ='screenshots/home_page2.png' width = '30%'>
 </p>
 
 <p>
-  <img src='screenshots/home_page3.png' width = '33%'>
-  <img src= 'screenshots/music_screen.png' width = '33%'>
-  <img src ='screenshots/login_page.png' width = '33%'>
+  <img src='screenshots/home_page3.png' width = '30%'>
+  <img src= 'screenshots/music_screen.png' width = '30%'>
+  <img src ='screenshots/login_page.png' width = '30%'>
 </p>
 
 
