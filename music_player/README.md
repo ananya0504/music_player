@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](screenshots/banner.jpeg)
+![Banner](screenshots/banner.png)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/teamtigers/donate_plasma/)
 
@@ -27,7 +27,6 @@ I was able to implement all my learnings in this small app!
 
 Here are some screenshots of my work -
 
-**Screenshots**
 <p>
   <img src='screenshots/splash_screen.png' width = '33%'>
   <img src= 'screenshots/home_page1.png' width = '33%' >
